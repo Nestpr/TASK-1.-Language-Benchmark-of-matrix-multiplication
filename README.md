@@ -1,4 +1,3 @@
-README
 How to Run Matrix Multiplication Benchmark
 
 C Language
