@@ -1,6 +1,7 @@
 How to Run Matrix Multiplication Benchmark
 
-C Language
+C Language:
+
 To compile and run the matrix multiplication code in C, follow these steps:
 
 Navigate to the directory containing your C file:
@@ -15,12 +16,12 @@ Run the compiled program using perf to gather performance statistics:
 
 perf stat ./matrixmultiplication
 
-Python
+Python:
 
 To run the matrix multiplication benchmark in Python using pytest, execute the following in your terminal:
 pytest --benchmark-only -s
 
-Java
+Java:
 
 For Java, download the JMH plugin in IntelliJ IDEA. Then, to run the matrix multiplication benchmark:
 
